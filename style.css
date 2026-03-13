@@ -86,7 +86,7 @@ p{
     
     max-width: 30rem;
     word-wrap: break-word;
-    color: var(--font-color-inside);
+ 
     font-weight: bold;
     text-align: left;
     width: 100%;
@@ -198,6 +198,12 @@ footer{
 
     z-index: 2;
     font-size: var(--font-size-small);
+    gap: 0 5px;
   
     color: white;
+    
+}
+
+span{
+    text-decoration: underline;
 }
